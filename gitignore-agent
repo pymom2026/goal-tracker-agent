@@ -1,0 +1,17 @@
+# Dependencies (never commit these — Railway installs them fresh)
+node_modules/
+
+# Runtime data files written by the server
+subscriptions.json
+workouts.json
+
+# Environment variables (never commit secrets)
+.env
+.env.local
+
+# Mac clutter
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
